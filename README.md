@@ -30,12 +30,15 @@ The module consists of two sequential sub-modules:
 ---
 ## 📝 Citation
 
-if you use this code or this implementation in your projects or research, please cite this package as follows:
-@misc{resnet50cbamkeras,
-  author = {amirali tajadini},
-  title = {ResNet-50 with CBAM Implementation in Keras},
+If you use this implementation in your research or project, please cite it using the following formats:
+
+### BibTeX
+```bibtex
+@misc{resnet50_cbam_keras,
+  author = {Your Name},
+  title = {ResNet-50 Enhanced by CBAM Implementation in Keras},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{[Your-Repository-Link]}},
+  howpublished = {\url{https://github.com/your-username/your-repo-name}}
 }
