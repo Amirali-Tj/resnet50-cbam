@@ -34,10 +34,10 @@ If you use this implementation in your research or project, please cite it using
 
 ```bibtex
 @misc{resnet50_cbam_keras,
-  author = {Amirali tajadini},
-  title = {ResNet-50 Enhanced by CBAM Implementation in Keras},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Amirali-Tj/resnet50-cbam}}
+  author       = {Tajadini, Amirali},
+  title        = {ResNet-50 Enhanced by CBAM Implementation in Keras},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Amirali-Tj/resnet50-cbam}},
+  note         = {GitHub repository}
 }
+
