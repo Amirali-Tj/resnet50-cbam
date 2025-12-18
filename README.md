@@ -13,7 +13,7 @@ While a standard ResNet-50 is a powerful feature extractor, it treats all featur
 1.  **Focus on Channels (What):** Determine which feature maps are most important for the specific task.
 2.  **Focus on Space (Where):** Determine which parts of the image contain the most relevant information.
 
-This implementation uses the **ImageNet pre-trained weights** for the ResNet backbone and appends the attention mechanism before the classification head.
+This implementation uses the **ImageNet pre-trained weights** for the ResNet backbone and appends the attention mechanism before the classification head , **which is suitable for small datasets**.
 
 ---
 
