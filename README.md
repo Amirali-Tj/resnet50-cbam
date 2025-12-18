@@ -28,12 +28,14 @@ The module consists of two sequential sub-modules:
 *   **Spatial Attention:** Exploits the inter-spatial relationship of features.
 
 ---
+## 📝 Citation
 
-## 🛠️ Installation
-
-Clone this repository and ensure you have the required libraries installed:
-
-```bash
-git clone https://github.com/your-username/resnet50-cbam-keras.git
-cd resnet50-cbam-keras
-pip install tensorflow numpy matplotlib
+if you use this code or this implementation in your projects or research, please cite this package as follows:
+@misc{resnet50cbamkeras,
+  author = {amirali tajadini},
+  title = {ResNet-50 with CBAM Implementation in Keras},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[Your-Repository-Link]}},
+}
