@@ -32,7 +32,6 @@ The module consists of two sequential sub-modules:
 
 If you use this implementation in your research or project, please cite it using the following formats:
 
-### BibTeX
 ```bibtex
 @misc{resnet50_cbam_keras,
   author = {Your Name},
